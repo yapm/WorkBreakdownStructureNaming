@@ -1,0 +1,20 @@
+﻿﻿WBS of the Project
+	Design
+		Preliminary Design Review
+			Documentation milestone 1
+				Documentation package drafting
+			PDR Meeting
+				PDR Report
+		Critical Design Review
+			Documentation milestone 2
+				Documentation package drafting
+			Final CDR Meeting
+				Final CDR Report
+			Documentation milestone 3
+				Documentation package drafting
+	HW & SW Development
+		Software
+			Software Specification
+				Spec 1
+				Spec 2
+				Spec 3
